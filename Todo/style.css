@@ -1,0 +1,13 @@
+body{
+    margin: 2;
+    font-family: sans-serif;
+    background-color: deeppink;
+    font-weight: 300;
+    color: rgb(244, 250, 245)
+    ;
+  text-align: fixed;
+  
+.btn{cursor: pointer;
+background-color: rgb(248, 246, 247);
+padding: auto;}
+
